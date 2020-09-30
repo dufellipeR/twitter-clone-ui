@@ -15,7 +15,6 @@ const Dashboard: React.FC = () => {
         Minimalist Template Typescript React
         <FiChevronRight size={20} />
       </Title>
-
     </>
   );
 };
